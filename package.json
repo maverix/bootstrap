@@ -85,7 +85,7 @@
       "dist",
       "scss",
       "js"
-    ]
+    ],
     "shim": {
       "js/bootstrap": {
         "deps": [
