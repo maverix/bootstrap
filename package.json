@@ -81,9 +81,11 @@
     "ignore": [
       "dist/js/npm"
     ],
-    "directories": {
-      "lib": "dist"
-    },
+  "files": [
+      "dist",
+      "scss",
+      "js"
+    ]
     "shim": {
       "js/bootstrap": {
         "deps": [
